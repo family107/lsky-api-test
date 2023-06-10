@@ -1,0 +1,11 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: lsky-por
+
+lsky:
+  baseUrl: https://familyself.top/api/v1
+  email: #自己的邮箱
+  password:   #自己的密码
+  authorization: #自己的token
